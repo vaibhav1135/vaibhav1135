@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav1135&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
