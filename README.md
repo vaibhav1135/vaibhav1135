@@ -1,87 +1,44 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast</h3>
+# Hi 👋, I'm Vaibhav Nagare
 
----
+🎓 Computer Engineering Student | B.E. 2027
 
-## 👨‍💻 About Me
+💻 Interested in Software Development, Data Analytics, AI/ML, and Cybersecurity.
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in AI & Machine Learning
-- 🔐 Learning Cyber Security
-- 🌱 Currently building real-world Flask & Python projects
-- 📫 LinkedIn: https://www.linkedin.com/in/nagarevaibhav/
+🚀 I build web applications, interactive dashboards, data-driven systems, and machine learning projects.
 
----
+🌱 Currently strengthening my skills in Java, Python, SQL, full-stack development, and problem-solving.
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,bootstrap,flask,mysql,mongodb,firebase,git,github,vscode,linux&perline=7"/>
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav1135&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1135&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaibhav1135&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nagarevaibhav/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vaibhav1135" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
+- **Languages:** Java, Python, JavaScript, C, SQL
+- **Web Development:** HTML, CSS, React, Flask, FastAPI
+- **Databases:** MySQL, MongoDB
+- **Data & Big Data:** PySpark, Pandas, NumPy, Recharts
+- **AI/ML & NLP:** Scikit-learn, spaCy, TF-IDF, Machine Learning
+- **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🏠 **EstateIQ** | AI-powered Mumbai Real Estate Price Predictor |
-| 🤖 **FraudLens AI** | Credit Card Fraud Detection using Machine Learning |
-| 🛡️ **CyberShield AI** | Cyber Security Toolkit & Utilities |
-| 🌧️ **RainHarvest IQ** | Smart Rainwater Harvesting Analysis |
+### 🛒 [ShopPulse — E-Commerce Big Data Analytics](https://github.com/vaibhav1135/ShopPulse_BDA)
+Full-stack analytics platform featuring sales dashboards, customer segmentation, review analysis, traffic simulation, and product recommendations using React, FastAPI, PySpark, and MongoDB.
+
+### 🛡️ [Cyber Incident Report Analyzer](https://github.com/vaibhav1135/cyber-report-analyzer)
+Flask-based cybersecurity tool that analyzes incident report PDFs using NLP, extracts indicators of compromise, reconstructs timelines, and maps findings to MITRE ATT&CK techniques.
+
+### 🏠 [EstateIQ](https://github.com/vaibhav1135/EstateIQ)
+Property analytics and price prediction project focused on Mumbai real estate.
+
+### 🤖 [FraudLens AI](https://github.com/vaibhav1135/FraudLens-AI)
+Machine learning project focused on identifying potentially fraudulent financial transactions.
+
+### 🌧️ [RainHarvest IQ](https://github.com/vaibhav1135/RainHarvest-IQ-)
+Rainwater harvesting analysis project focused on water conservation and planning.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/nagarevaibhav](https://www.linkedin.com/in/nagarevaibhav/)
+- **GitHub:** [github.com/vaibhav1135](https://github.com/vaibhav1135)
 
 ---
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</p>
+⭐ Thanks for visiting my profile!
